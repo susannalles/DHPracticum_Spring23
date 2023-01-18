@@ -2,7 +2,7 @@
 title:               Digital Humanities Practicum
 tagline:             'A Jekyll theme'
 description:         'MLL 774 - ENG 613 | University of Miami | Spring 2023'
-url:                 https://susannalles.github.io/
+url:                 http://susannalles.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
