@@ -31,6 +31,7 @@ title: Program
   - Drucker, Johanna. "Chapter 3 Digitization." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
   - Digital Humanities Workbench, "[File Formats](https://www2.fgw.vu.nl/werkbanken/dighum/digital_data/digital_text/file_formats.php)" 
 2. Hands-on: 
+  - Command line 
   - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
