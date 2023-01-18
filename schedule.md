@@ -114,7 +114,7 @@ Session offered by Prof. Lindsay Thomas
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
 2. Hands-on  
-- Clifford, Jim, et al. “Intro to Google Maps and Google Earth.” Programming Historian, no. 2, Dec. 2013. programminghistorian.org, https://programminghistorian.org/en/lessons/googlemaps-googleearth.
+- Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
 3. Explore and pick ours: 
   - Radical Cartography <http://www.radicalcartography.net/>
 
