@@ -3,6 +3,8 @@ layout: page
 title: Program
 ---
 
+* *The Syllabus will be updated with more details on the exercices each week*
+
 ## (1) January 19, 2023: Presentation
 
 - Presentations
