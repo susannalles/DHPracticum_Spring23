@@ -84,7 +84,7 @@ Session offered by Prof. Lindsay Thomas
 1. Read: 
   - Topic Modeling  
 2. Hands-on: 
-  - Graham, Shawn, et al. “Getting Started with Topic Modeling and MALLET.” Programming Historian, no. 1, 2012. programminghistorian.org, https://programminghistorian.org/en/lessons/topic-modeling-and-mallet.
+  - Graham, Shawn, et al. “[Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).” *Programming Historian*, no. 1, 2012. 
 
 
 ### Spring Break 
