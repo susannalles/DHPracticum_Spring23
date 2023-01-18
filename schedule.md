@@ -8,6 +8,7 @@ title: Program
 - Presentations
 - [Manifesto for the Digital Humanities](https://oep.hypotheses.org/78)
 - Group Activities 
+- Super quick intro to GitHub ([Steps](https://susannalles.github.io/DHPracticum/practice/github/))
 
 
 ## (2) January 26, 2023:
