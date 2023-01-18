@@ -115,8 +115,10 @@ Session offered by Prof. Lindsay Thomas
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
+  - Quamen, Harvey, and Jon Bath. “Databaes.” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Constance Crompton et al., Routledge, 2020, pp. 145–62. miami-primo.com, http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628.
 2. Hands-on: 
-
+  - Exercice on databases
+3. Eplore and pick yours. 
 
 ## (12) April 13, 2023:
 
