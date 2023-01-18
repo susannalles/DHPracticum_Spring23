@@ -43,6 +43,7 @@ title: Program
 
 2. Hands-on: 
   - Install [Zotero](https://www.zotero.org/) and create an account. 
+  - Simpkin, Sarah. “Getting Started with Markdown.” Programming Historian, no. 4, 2015. programminghistorian.org, https://programminghistorian.org/en/lessons/getting-started-with-markdown.
   - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
 
 
@@ -113,7 +114,7 @@ Session offered by Prof. Lindsay Thomas
 ## (11) April 6, 2023:
 
 1. Read: 
-  - Databases 
+  - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
 2. Hands-on: 
 
 
