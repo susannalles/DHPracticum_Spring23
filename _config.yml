@@ -6,6 +6,7 @@ url:                 http://susannalles.github.io
 baseurl:             '/DHPracticum_Spring23'
 paginate:            5
 permalink:           pretty
+github.repo:         https://github.com/susannalles/DHPracticum_Spring23 
 
 # About/contact
 author:
