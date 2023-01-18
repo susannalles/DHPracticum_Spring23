@@ -30,8 +30,8 @@ title: Program
   - Digital Humanities Workbench, "[File Formats](https://www2.fgw.vu.nl/werkbanken/dighum/digital_data/digital_text/file_formats.php)" 
 
 2. Hands-on: 
-  - Tenen, Dennis, and Grant Wythoff. “Sustainable Authorship in Plain Text Using Pandoc and Markdown.” Programming Historian, no. 3, 2014. programminghistorian.org, https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.
-  - Visconti, Amanda. “Building a Static Website with Jekyll and GitHub Pages.” Programming Historian, no. 5, Apr. 2016. programminghistorian.org, https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages.
+  - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
+  - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
   - A Workflow: Markdown, GitHub Pages
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
 
