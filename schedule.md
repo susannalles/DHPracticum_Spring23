@@ -33,14 +33,13 @@ title: Program
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
 
-*Students Presentations of their research and DH projec* 
+*Students Presentations of their research and DH project* 
 
 ## (4) February 9, 2023: Metadata | Zotero 
 
 1. Read: 
   - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
-  - Authority files ... 
-
+  - Smith, James. “Working with the Semantic Web.” Doing Digital Humanities. Practice, Training, Research, edited by Constance Crompton et al., Routledge, 2016, pp. 273–89.
 2. Hands-on: 
   - Install [Zotero](https://www.zotero.org/) and create an account. 
   - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
@@ -75,8 +74,8 @@ title: Program
 
 1. Read: 
   - Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” A New Companion to Digital Humanities, edited by Susan Schreibman et al., John Wiley & Sons, 2016. 
-  - Drucker vizualiation
-
+  - Drucker, Johanna. “[Graphical Approaches to the Digital Humanities](http://www.miami.eblib.com/EBLWeb/patron/?target=patron&extendedid=P_4093339_0).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
+  - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 2. Hands-on: 
   - [Voyant Tutorial](https://voyant-tools.org/docs/#!/guide/tutorial)
 
@@ -123,6 +122,7 @@ Session offered by Prof. Lindsay Thomas
 
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
+  - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 2. Hands-on  
 - Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
 3. Explore and pick ours: 
