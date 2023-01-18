@@ -5,8 +5,10 @@ title: Program
 
 ## (1) January 19, 2023:
 
-Presentations
-Group Activities 
+- Presentations
+- [Manifesto for the Digital Humanities](https://oep.hypotheses.org/78)
+- Group Activities 
+
 
 ## (2) January 26, 2023:
 
