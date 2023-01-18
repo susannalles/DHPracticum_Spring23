@@ -69,13 +69,11 @@ title: Program
   - Install [AntConc](https://www.laurenceanthony.net/software/antconc/)
   - Froehlich, Heather. “[Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc).” *Programming Historian*, no. 4, 2015. 
 
-3. Explore and pick yours 
-
 
 ## (7) March 2, 2023: Vizualiations, Text Analysis | Voyant 
 
 1. Read: 
-  - Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” A New Companion to Digital Humanities, edited by Susan Schreibman et al., John Wiley & Sons, 2016. 
+  - Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016. 
   - Drucker, Johanna. “[Graphical Approaches to the Digital Humanities](http://www.miami.eblib.com/EBLWeb/patron/?target=patron&extendedid=P_4093339_0).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
   - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 2. Hands-on: 
@@ -107,6 +105,7 @@ Session offered by Prof. Lindsay Thomas
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
+  - Platforms 
 
 3. Hands-on  
   - XML transformations through XSLT. 
