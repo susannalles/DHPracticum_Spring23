@@ -18,7 +18,7 @@ title: Program
   - Warwick, Claire. “[Building Theories or Theories of Building? A Tension at the Heart of Digital Humanities](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
 2. Hands-on: 
   - Install [Visual Studio Code](https://code.visualstudio.com/)
-  - Simpkin, Sarah. “Getting Started with Markdown.” Programming Historian, no. 4, 2015. programminghistorian.org, https://programminghistorian.org/en/lessons/getting-started-with-markdown.
+  - Simpkin, Sarah. “[Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown).” *Programming Historian*, no. 4, 2015.
 3. Explore and pick yours: 
   - [Reviews on DH](https://reviewsindh.pubpub.org/) 
   - [RIDE – A review journal for digital editions and resources](https://ride.i-d-e.de/)
