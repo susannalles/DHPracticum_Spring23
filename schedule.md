@@ -5,15 +5,20 @@ title: Program
 
 ## (1) January 19, 2023:
 
-Before class: 
-
-In class: 
+Presentations
+Group Activities 
 
 ## (2) January 26, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Burdick, Anne, et al. “[Humanities to Digital Humanities](https://direct.mit.edu/books/book/5346/chapter/3837845/HUMANITIES-TO-DIGITAL-HUMANITIES).” *Digital_Humanities*, MIT Press, 2012.
+  - Warwick, Claire. “[Building Theories or Theories of Building? A Tension at the Heart of Digital Humanities](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
+2. Explore and pick yours: 
+  - [Reviews on DH](https://reviewsindh.pubpub.org/) 
+  - [RIDE – A review journal for digital editions and resources](https://ride.i-d-e.de/)
+3. Hands-on: 
+  - Install [Visual Studio Code](https://code.visualstudio.com/)
+  - Tutorial Markdown 
 
 ## (3) February 2, 2023:
 
