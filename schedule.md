@@ -46,53 +46,55 @@ title: Program
 
 ## (5) February 16, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Corpus creation 
+  - Get and clean data (Drucker)
+2. Hands-on: 
+  - 
+3. Explore and pick yours: 
 
 ## (6) February 23, 2023:
 
-Before class: 
+1. Read: 
+  - Data and Analysis - Text Analysis (I)
 
 In class: 
 
 ## (7) March 2, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Data and Analysis - Text Analysis (II)
 
 ## (8) March 9, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Data and Analysis - Text Analysis (II) 
 
 ### Spring Break 
 
 ## (9) March 23, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Text Encoding I 
+3. Hands-on 
 
 ## (10) March 30, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Text Encoding II 
+3. Hands-on  
 
 ## (11) April 6, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Maps I 
+3. Hands-on  
 
 ## (12) April 13, 2023:
 
-Before class: 
-
-In class: 
+1. Read: 
+  - Text Encoding I 
+3. Hands-on 
 
 ## (13) April 20, 2023:
 
