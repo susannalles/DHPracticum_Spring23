@@ -67,6 +67,7 @@ title: Program
   - Drucker, Johanna. "Chapter 2 Data Modeling and Use." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
  
 2. Hands-on: 
+  - Basic tasks for text analysis with the command line. 
   - Install [AntConc](https://www.laurenceanthony.net/software/antconc/)
   - Froehlich, Heather. “[Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc).” *Programming Historian*, no. 4, 2015. 
 
