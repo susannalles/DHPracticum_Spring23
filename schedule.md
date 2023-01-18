@@ -34,6 +34,8 @@ title: Program
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
 
+*Students Presentations of their research and DH projec* 
+
 ## (4) February 9, 2023:
 
 1. Read: 
@@ -110,27 +112,30 @@ Session offered by Prof. Lindsay Thomas
 ## (11) April 6, 2023:
 
 1. Read: 
-  - Maps I 
-3. Hands-on  
+  - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
+2. Hands-on  
+- Clifford, Jim, et al. “Intro to Google Maps and Google Earth.” Programming Historian, no. 2, Dec. 2013. programminghistorian.org, https://programminghistorian.org/en/lessons/googlemaps-googleearth.
+3. Explore and pick ours: 
+  - Radical Cartography <http://www.radicalcartography.net/>
 
 ## (12) April 13, 2023:
 
 1. Read: 
-  - Text Encoding I 
-3. Hands-on 
+  - 
+2. Hands-on 
+
 
 ## (13) April 20, 2023:
 
-Before class: 
+- Laboratory Day 
 
-In class: 
+*Annotated bibliography created with Zotero due*  
 
 ## (14) April 27, 2023:
 
-(Class moved to...)
+(Class moved to Friday, April 28th)
 
-Before class: 
-
-In class: 
+*Final presentations*
 
 
+## Final deadline for digital project: May 4th, 2023 
