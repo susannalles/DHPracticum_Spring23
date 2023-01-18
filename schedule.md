@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-## (1) January 19, 2023:
+## (1) January 19, 2023: Presentation
 
 - Presentations
 - [Manifesto for the Digital Humanities](https://oep.hypotheses.org/78)
@@ -11,19 +11,19 @@ title: Program
 - Super quick intro to GitHub ([Steps](https://susannalles.github.io/DHPracticum/practice/github/))
 
 
-## (2) January 26, 2023:
+## (2) January 26, 2023: Introduction, DH Scenarios | Markdown Intervention  
 
 1. Read: 
   - Burdick, Anne, et al. “[Humanities to Digital Humanities](https://direct.mit.edu/books/book/5346/chapter/3837845/HUMANITIES-TO-DIGITAL-HUMANITIES).” *Digital_Humanities*, MIT Press, 2012.
   - Warwick, Claire. “[Building Theories or Theories of Building? A Tension at the Heart of Digital Humanities](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
 2. Hands-on: 
   - Install [Visual Studio Code](https://code.visualstudio.com/)
-  - Tutorial Markdown 
+  - Simpkin, Sarah. “Getting Started with Markdown.” Programming Historian, no. 4, 2015. programminghistorian.org, https://programminghistorian.org/en/lessons/getting-started-with-markdown.
 3. Explore and pick yours: 
   - [Reviews on DH](https://reviewsindh.pubpub.org/) 
   - [RIDE – A review journal for digital editions and resources](https://ride.i-d-e.de/)
 
-## (3) February 2, 2023:
+## (3) February 2, 2023: The Basics, Formats | GitHub Pages 
 
 1. Read: 
   - Drucker, Johanna. "Chapter 3 Digitization." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
@@ -35,7 +35,7 @@ title: Program
 
 *Students Presentations of their research and DH projec* 
 
-## (4) February 9, 2023:
+## (4) February 9, 2023: Metadata | Zotero 
 
 1. Read: 
   - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
@@ -43,11 +43,10 @@ title: Program
 
 2. Hands-on: 
   - Install [Zotero](https://www.zotero.org/) and create an account. 
-  - Simpkin, Sarah. “Getting Started with Markdown.” Programming Historian, no. 4, 2015. programminghistorian.org, https://programminghistorian.org/en/lessons/getting-started-with-markdown.
   - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
 
 
-## (5) February 16, 2023:
+## (5) February 16, 2023: Classification, Structures | HTML, CSS 
 
 1. Read:  
   - Sperberg-McQueen, C.M. “[Classification and its Structures](https://ebookcentral.proquest.com/lib/miami/reader.action?docID=4093339&ppg=447)”, in *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
@@ -58,7 +57,7 @@ title: Program
   - W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
 
 
-## (6) February 23, 2023:
+## (6) February 23, 2023: Data Modeling, Text Analysis | AntConc
 
 1. Read: 
   - Jannidis, Fotis, and Julia Flanders. “[Data Modeling in a Digital Humanities Context. An Introduction](https://doi.org/10.4324/9781315552941).” *The Shape of Data in Digital Humanities: Modeling Texts and Text-Based Resources*, Routledge, 2018, pp. 3–25.
@@ -72,7 +71,7 @@ title: Program
 3. Explore and pick yours 
 
 
-## (7) March 2, 2023:
+## (7) March 2, 2023: Vizualiations, Text Analysis | Voyant 
 
 1. Read: 
   - Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” A New Companion to Digital Humanities, edited by Susan Schreibman et al., John Wiley & Sons, 2016. 
@@ -81,7 +80,7 @@ title: Program
 2. Hands-on: 
   - [Voyant Tutorial](https://voyant-tools.org/docs/#!/guide/tutorial)
 
-## (8) March 9, 2023:
+## (8) March 9, 2023: Topic Modeling, Text Analysis | Mallet 
 
 Session offered by Prof. Lindsay Thomas 
 
@@ -93,7 +92,7 @@ Session offered by Prof. Lindsay Thomas
 
 ### Spring Break 
 
-## (9) March 23, 2023:
+## (9) March 23, 2023: Text Encoding | TEI (I)
 
 1. Read: 
   - Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
@@ -103,7 +102,7 @@ Session offered by Prof. Lindsay Thomas
 3. Hands-on 
   - TEI By Example 
 
-## (10) March 30, 2023:
+## (10) March 30, 2023: Text Encoding | TEI (II)
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
@@ -111,7 +110,7 @@ Session offered by Prof. Lindsay Thomas
 3. Hands-on  
   - XML transformations through XSLT. 
   
-## (11) April 6, 2023:
+## (11) April 6, 2023: Databases 
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
@@ -120,7 +119,7 @@ Session offered by Prof. Lindsay Thomas
   - Exercice on databases
 3. Eplore and pick yours. 
 
-## (12) April 13, 2023:
+## (12) April 13, 2023: Maps | Google Maps 
 
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
@@ -130,13 +129,13 @@ Session offered by Prof. Lindsay Thomas
   - Radical Cartography <http://www.radicalcartography.net/>
 
 
-## (13) April 20, 2023:
+## (13) April 20, 2023: Lab 
 
 - Laboratory Day 
 
 *Annotated bibliography created with Zotero due*  
 
-## (14) April 27, 2023:
+## (14) April 27, 2023: Optional Lab 
 
 (Class moved to Friday, April 28th)
 
