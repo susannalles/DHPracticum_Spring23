@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+### Welcome to the Digital Humanities Practicum (MLL 774/ ENG 613) 
 
 Among the many definitions that have been given to the Digital Humanities here are two that fit this seminar:
 
