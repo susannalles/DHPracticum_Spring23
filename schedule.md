@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: Schedule
 ---
 
 *Each week, this schedule will be updated with more details on the exercices and the sites to explore. This syllabus is subject to change based on time and the interests of the class.*
