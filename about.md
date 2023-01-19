@@ -23,15 +23,17 @@ This course has a relatively small amount of general readings, since it prioriti
 Additionally, students have to be aware that this course involves hands-on work that must be performed outside the classroom before every session. Most of the time, this work will consist on the completion of online tutorials and exercises to be discussed then in class. 
 
 
-## Requirements
+## Grading and assignments
 
-I. Attendance and active participation
+The assignments and distribution of the final grade will be as follows:
 
-II. Exercises
+I. Attendance and active participation (10%)
+
+II. Exercises (25%)
 
 Students will have weekly digital exercises with the different technologies seen in class. They will be also asked to follow several tutorials to deepen the hands-on work and understanding of technologies and tools.
 
-III. Formal Presentations
+III. Formal Presentations (15%)
 
 The first presentation will offer a basic introductory overview of the student’s DH knowledge (this knowledge may be limited or none, or may be more extensive). They will outline their personal research goals for the course seminar and offer preliminary ideas for both the skills they hope to require and the projects they may develop in the practicum. **Due date: Feb. 2nd, 2023**
 
@@ -39,11 +41,11 @@ Each student will be asked to formally guide the seminar for one class meeting. 
 
 Each student or group will be asked to offer a formal presentation addressing their course project at the close of the practicum. This presentation should attend to several issues: a) a general overview of the project; b) a theoretical contextualization of the digital methodology used; c) a technical description of the implementation of their project; d) key issues they have faced; e) future perspective for the preservation and further development of their project. Due date: **April 28th, 2023**.
 
-IV. Annotated bibliography
+IV. Annotated bibliography (10%)
 
 Students will elaborate a formal bibliography that will include citations of sources with summary and evaluation information for each source. For this assignment, students will use Zotero. In this bibliography, they will include the readings seen and mentioned in class, plus a selection of five works not on the course syllabus and relevant to their digital humanities project. For samples, see: https://owl.english.purdue.edu/owl/resource/614/03/ Also, the bibliography will have to be embeded in the digital project website. Due date: **April 20th, 2023**.
 
-V. Final Digital Project
+V. Final Digital Project (40%)
 
 Each student, independently or in collaboration, will deliver a digital project relevant to the PhD dissertation or current research. The project can be a digital portfolio or a digital scholarly project related to your dissertation topic. The topic and any aspect of the project should always be discussed with the professor. Please note that while this course does not require students to produce an article or essay, these projects must be original, clearly articulated, and the formal presentation that accompanies them must explain in clear detail the methodological approach, argument/intervention, and relevance of the project. Due date: **May 4th, 2023**.
 
