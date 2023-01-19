@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-* *The Syllabus will be updated with more details on the exercices each week*
+*Each week, this schedule will be updated with more details on the exercices and the sites to explore. This syllabus is subject to change based on time and the interests of the class.*
 
 ## (1) January 19, 2023: Presentation
 
