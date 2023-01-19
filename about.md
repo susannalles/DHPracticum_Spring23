@@ -46,3 +46,9 @@ Students will elaborate a formal bibliography that will include citations of sou
 V. Final Digital Project
 
 Each student, independently or in collaboration, will deliver a digital project relevant to the PhD dissertation or current research. The project can be a digital portfolio or a digital scholarly project related to your dissertation topic. The topic and any aspect of the project should always be discussed with the professor. Please note that while this course does not require students to produce an article or essay, these projects must be original, clearly articulated, and the formal presentation that accompanies them must explain in clear detail the methodological approach, argument/intervention, and relevance of the project. Due date: **May 4th, 2023**.
+
+## Some tips 
+
+- **Technology**: the course has many technical components, but no previous computer programming or web design experience is required. However, it is crucial that you demonstrate willingness to engage with technology, meaning that you are willing to experiment, try, and fail. Sometimes you will get stuck and maybe get frustrated because “things don’t work” in your machines, but you don’t have to despair: Investigate for yourself, try to fix it on your own (google it, youtube it), ask for help from your peers, etc.
+- **Attendance** is mandatory: you must come to class and come prepared. Since this course will be mainly a discussion-based class and there will be hands-on work, your presence is essential. If you don’t come to class, you are missing the essence of the course and you probably will have issues advancing with the following topic, which eventually might disrupt the collective work of the group. 
+- **Markdown**: Almost from day one, we will be using markdown. I strongly encourage you that you start using it and that you take all notes of this course in .md. At the end of the course, you will understand why. 
