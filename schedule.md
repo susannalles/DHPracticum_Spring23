@@ -44,7 +44,7 @@ title: Schedule
   - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
   - Smith, James. “Working with the Semantic Web.” *Doing Digital Humanities. Practice, Training, Research*, edited by Constance Crompton et al., Routledge, 2016, pp. 273–89.
 2. Hands-on: 
-  - Install [Zotero](https://www.zotero.org/) and create an account. 
+  - [Install and Work with Zotero](http://susannalles.github.io/workshops/Zotero.html). 
   - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
 
 
