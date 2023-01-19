@@ -11,9 +11,9 @@ Among the many definitions that have been given to the Digital Humanities here a
 
   > Digital Humanities research and teaching takes place at the intersection of digital technologies and humanities. DH aims to produce and use applications and models that make possible new kinds of teaching and research, both in the humanities and in computer science (and its allied technologies). DH also studies the impact of these techniques on cultural heritage, memory institutions, libraries, archives and digital culture. [Melissa Terras, [Quantifying Digital Humanities](https://melissaterras.org/2012/01/20/infographic-quantifying-digital-humanities/), December 2011]
 
-And, certainly, are only two of many, see this site where every time you refresh it, you get a different definition: <http://www.whatisdigitalhumanities.com/>). 
+And, certainly, these are only two of many! Check this site where every time you refresh, you get a different definition: <http://www.whatisdigitalhumanities.com/>). 
 
-In this course we will move from basic concepts (what is data, files and formats, interfaces and the web architecture) to other a little bit more sophisticated (metadata), as well as different computation approaches to scholarly work across the humanities (text encoding, text analysis). The idea is to give you the space to explore different methods and tools across disciplines in digital scholarship and lay the ground for your future digital project.
+In this course we will move from basic concepts (what is data, files and formats, interfaces and the web architecture) to other more sophisticated (metadata), as well as different computation approaches to scholarly work across the humanities (text encoding, text analysis, mapping). The idea is to give you the space to explore different methods and tools across disciplines in digital scholarship and lay the ground for your future digital project.
 
 This course has an eminently hands-on component. Each session is divided into a set of readings to discuss as a group in class, a tutorial to be completed at home, and a time to troubleshooting.
 
