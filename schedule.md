@@ -31,7 +31,7 @@ title: Schedule
   - Drucker, Johanna. "Chapter 3 Digitization." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
   - Digital Humanities Workbench, "[File Formats](https://www2.fgw.vu.nl/werkbanken/dighum/digital_data/digital_text/file_formats.php)" 
 2. Hands-on: 
-  - Command line 
+  - Milligan, Ian, and James Baker. “[Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash).” *Programming Historian*, no. 3, 2014.  
   - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
@@ -67,7 +67,7 @@ title: Schedule
   - Drucker, Johanna. "Chapter 2 Data Modeling and Use." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
  
 2. Hands-on: 
-  - Basic tasks for text analysis with the command line. 
+  - Turkel, William J. “Basic Text Analysis with Command Line Tools in Linux.” William J Turkel, 15 June 2013, <https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/>. 
   - Install [AntConc](https://www.laurenceanthony.net/software/antconc/)
   - Froehlich, Heather. “[Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc).” *Programming Historian*, no. 4, 2015. 
 
