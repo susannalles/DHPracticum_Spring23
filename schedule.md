@@ -8,10 +8,10 @@ title: Schedule
 ## (1) January 19, 2023: Presentation
 
 - Presentations
-- [Entry Survey](https://forms.gle/E3q197kPG5LzVaTGA)
+- Entry survey
 - [Manifesto for the Digital Humanities](https://oep.hypotheses.org/78)
 - Group Activities 
-- Super quick intro to GitHub ([Steps](https://susannalles.github.io/DHPracticum/practice/github/))
+- Super quick intro to GitHub: [Steps](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/github.md)
 
 
 ## (2) January 26, 2023: Introduction, DH Scenarios | Markdown Intervention  
