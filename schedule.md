@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 
-*Each week, this schedule will be updated with more details on the exercices and the sites to explore. This syllabus is subject to change based on time and the interests of the class.*
+Each week, this schedule will be updated with more details on the exercices and the sites to explore. This syllabus is subject to change based on time and the interests of the class.
 
 ## (1) January 19, 2023: Presentation
 
@@ -147,3 +147,6 @@ Session offered by Prof. Lindsay Thomas
 
 
 ## Final deadline for digital project: May 4th, 2023 
+
+Students will have to send the link to the professor. 
+
