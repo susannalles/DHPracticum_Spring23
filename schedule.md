@@ -8,7 +8,7 @@ Each week, this schedule will be updated with more details on the exercices and 
 ## (1) January 19, 2023: Presentation
 
 - Presentations
-- Entry survey
+- [Entry survey](https://forms.gle/GmCJbg134HavzcQR9)
 - [Manifesto for the Digital Humanities](https://oep.hypotheses.org/78)
 - Group Activities 
 - Super quick intro to GitHub: [Steps](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/github.md)
