@@ -25,6 +25,7 @@ Each week, this schedule will be updated with more details on the exercices and 
 3. Explore and pick yours: 
   - [Reviews on DH](https://reviewsindh.pubpub.org/) 
   - [RIDE – A review journal for digital editions and resources](https://ride.i-d-e.de/)
+  - [Digital Humanities Awards](http://dhawards.org/)
 
 ## (3) February 2, 2023: The Basics, Formats | GitHub Pages 
 
