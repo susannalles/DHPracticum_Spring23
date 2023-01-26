@@ -7,7 +7,7 @@ Lins to the students GitHub repositories and GitHub Pages.
 
 - Euge:  [GitHub Repo](https://github.com/X.github.io) and [GitHub Page](https://X.github.io/)
 - Gabrielle:  [GitHub Repo](https://github.com/X.github.io) and [GitHub Page](https://X.github.io/)
-- Hyekyung: [GitHub Repo](https://github.com/austraea/austraea.github.io) and [GitHub Page](https://austraea.github.io/)
+- Hyekyung: [GitHub Repo](https://github.com/austraea/austraea.github.io) and [GitHub Page](https://austraea.github.io/https://austraea.github.io/hyekyung/), [Personal Webpage](https://austraea.github.io/)
 - Iman:  [GitHub Repo](https://github.com/imangareeboo/imangareeboo.github.io) and [GitHub Page](https://imangareeboo.github.io/)
 - Kathryn:  [GitHub Repo](https://github.com/kes151/kes151.github.io) and [GitHub Page](https://kes151.github.io/)
 - Lourdes:  [GitHub Repo](https://github.com/X.github.io) and [GitHub Page](https://X.github.io/)
