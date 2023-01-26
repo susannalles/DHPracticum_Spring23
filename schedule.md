@@ -25,6 +25,7 @@ Each week, this schedule will be updated with more details on the exercices and 
   - Install [Visual Studio Code](https://code.visualstudio.com/)
   - Simpkin, Sarah. “[Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown).” *Programming Historian*, no. 4, 2015.
   - [Exercise 1](https://github.com/susannalles/DHPracticum_Spring23/blob/gh-pages/exercises/1.Jan_25_2023.md)
+  - [Exercise 2](https://github.com/susannalles/DHPracticum_Spring23/blob/gh-pages/exercises/Exercise2.zip) (If we have time)
 
 ## (3) February 2, 2023: The Basics, Formats | GitHub Pages 
 
