@@ -10,7 +10,7 @@ Lins to the students GitHub repositories and GitHub Pages.
 - Hyekyung: [GitHub Repo](https://github.com/austraea/austraea.github.io) and [GitHub Page](https://austraea.github.io/https://austraea.github.io/hyekyung/), [Personal Webpage](https://austraea.github.io/)
 - Iman:  [GitHub Repo](https://github.com/imangareeboo/imangareeboo.github.io) and [GitHub Page](https://imangareeboo.github.io/)
 - Kathryn:  [GitHub Repo](https://github.com/kes151/kes151.github.io) and [GitHub Page](https://kes151.github.io/)
-- Lourdes:  [GitHub Repo](https://github.com/lulischmader.github.io) and [GitHub Page](https://lulischmader.github.io/)
+- Luli:  [GitHub Repo](https://github.com/lulischmader/lulischmader.github.io) and [GitHub Page](https://lulischmader.github.io/)
 - Micaela: [GitHub Repo](https://github.com/mdonabella/ENG613) and [GitHub Page](https://mdonabella.github.io/ENG613), and [Personal Webpage](https://mdonabella.github.io/)
 - Michael:  [GitHub Repo](https://github.com/mrileysoriano/DHPracticum), [GitHub Page](https://mrileysoriano.github.io/DHPracticum), and [Personal Webpage](https://mrileysoriano.github.io/)
 - Shai:  [GitHub Repo](https://github.com/shai-cohen/shai-cohen.github.io) and [GitHub Page](https://shai-cohen.github.io/)
