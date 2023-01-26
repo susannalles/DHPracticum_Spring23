@@ -16,4 +16,4 @@ Lins to the students GitHub repositories and GitHub Pages.
 - Shai:  [GitHub Repo](https://github.com/shai-cohen/shai-cohen.github.io) and [GitHub Page](https://shai-cohen.github.io/)
 - Taryn: [GitHub Repo](https://github.com/taryneliana/taryneliana.github.io) and [GitHub Page](https://taryneliana.github.io/)
 - Vanessa: [GitHub Repo](https://github.com/vanessabcs/DH2023), [GitHub Page](https://vanessabcs.github.io/DH2023/), and [Personal webpage](https://vanessabcs.github.io/)
-- Virginea:  [GitHub Repo](https://github.com/novackvirginea.github.io) and [GitHub Page](https://novackvirginea.github.io/)
+- Virginea:  [GitHub Repo](https://github.com/novackvirginea/novackvirginea.github.io) and [GitHub Page](https://novackvirginea.github.io/)
