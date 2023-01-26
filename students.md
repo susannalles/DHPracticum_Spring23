@@ -5,7 +5,7 @@ title: Students
 
 Lins to the students GitHub repositories and GitHub Pages. 
 
-- Euge:  [GitHub Repo](https://github.com/X.github.io) and [GitHub Page](https://X.github.io/)
+- Euge:  [GitHub Repo](https://github.com/eugestumm/eugestumm.github.io) and [GitHub Page](https://eugestumm.github.io/)
 - Gabrielle:  [GitHub Repo](https://github.com/gjeanlouis/gjeanlouis.github.io) and [GitHub Page](https://gjeanlouis.github.io)
 - Hyekyung: [GitHub Repo](https://github.com/austraea/austraea.github.io) and [GitHub Page](https://austraea.github.io/hyekyung/), [Personal Webpage](https://austraea.github.io/)
 - Iman:  [GitHub Repo](https://github.com/imangareeboo/imangareeboo.github.io) and [GitHub Page](https://imangareeboo.github.io/)
