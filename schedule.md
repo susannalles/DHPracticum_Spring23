@@ -37,6 +37,7 @@ Each week, this schedule will be updated with more details on the exercices and 
   - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
+  - [Class Practise](https://susannalles.github.io/DHPracticum_Spring23/exercises/3.Feb_2_2023/) 
 
 *Students Presentations of their research and DH project* 
 
