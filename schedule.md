@@ -105,8 +105,12 @@ Other recommended readings:
 
 ### Spring Break 
 
-## (9) March 23, 2023: Text Encoding | TEI (I)
+## (9) March 23, 2023: Sentiment Analysis with Python
 
+Sentiment Analysis. By Jerry Bonnell 
+
+
+## (10) March 30, 2023: Text Encoding | TEI (I)
 1. Read: 
   - Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
   - Pierazzo, Elena. “[Textual Scholarship and Text Encoding.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch21)” In *A New Companion to Digital Humanities*, pp. 307-321.
@@ -114,17 +118,18 @@ Other recommended readings:
 
 3. Hands-on 
   - TEI By Example 
-
-## (10) March 30, 2023: Text Encoding | TEI (II)
+  
+## (11) April 6, 2023: Text Encoding | TEI (II)
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
   - Platforms 
 
 3. Hands-on  
-  - XML transformations through XSLT. 
-  
-## (11) April 6, 2023: Databases 
+  - XML transformations through XSLT.
+
+
+## (12) April 13, 2023: Databases
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
@@ -133,7 +138,7 @@ Other recommended readings:
   - Exercice on databases
 3. Eplore and pick yours. 
 
-## (12) April 13, 2023: Maps | Google Maps 
+## (13) April 20, 2023: Maps | Google Maps 
 
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
@@ -142,13 +147,10 @@ Other recommended readings:
 - Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
 3. Explore and pick ours: 
   - Radical Cartography <http://www.radicalcartography.net/>
-
-
-## (13) April 20, 2023: Lab 
-
 - Laboratory Day 
 
 *Annotated bibliography created with Zotero due*  
+
 
 ## (14) April 27, 2023: Optional Lab 
 
