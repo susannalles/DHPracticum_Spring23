@@ -88,11 +88,6 @@ Each week, this schedule will be updated with more details on the exercices and 
 
 Session offered by Prof. Lindsay Thomas 
 
-1. Read: 
-  - Topic Modeling  
-2. Hands-on: 
-  - Graham, Shawn, et al. “[Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).” *Programming Historian*, no. 1, 2012. 
-  - 
 1. Readings:
 - Lisa Marie Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/),” *Journal Of Digital Humanities* 2.1 (Winter 2012)  
 - Lindsay Thomas and Abigail Droge, “[The Humanities in Public: A Computational Analysis of US National and Campus Newspapers](https://culturalanalytics.org/article/32036-the-humanities-in-public-a-computational- 
