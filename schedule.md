@@ -92,6 +92,20 @@ Session offered by Prof. Lindsay Thomas
   - Topic Modeling  
 2. Hands-on: 
   - Graham, Shawn, et al. “[Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).” *Programming Historian*, no. 1, 2012. 
+  - 
+1. Readings:
+- Lisa Marie Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/),” *Journal Of Digital Humanities* 2.1 (Winter 2012)  
+- Lindsay Thomas and Abigail Droge, “[The Humanities in Public: A Computational Analysis of US National and Campus Newspapers](https://culturalanalytics.org/article/32036-the-humanities-in-public-a-computational- 
+  * Code repo: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BD9CE8),” *Journal of Cultural Analytics* (2022),  
+Browsable code repo: https://github.com/lcthomas/humanitiespublic 
+- Topic models discussed in the article:
+  * [Collection 33](http://harbor.english.ucsb.edu:10002/collections/20200515_1455_us-classification-results-top-newspapers-universitywire-hum-sci/dfr-browser/topics100/)  
+  * [Collection 36](http://harbor.english.ucsb.edu:10002/collections/20200522_1900_us-humanities-classification-results-top-newspapers-universitywire-not-hum/dfr-browser/topics150/) 
+
+Other recommended readings: 
+- Ted Underwood, “[Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/),” (2012)
+- David Mimno, “T[he Details: Training and Validating Big Models on Big Data](https://vimeo.com/53080123)” (video recording starting around 3:30) 
+- Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ ),” *Journal Of Digital Humanities* 2.1 (Winter 2012) 
 
 
 ### Spring Break 
