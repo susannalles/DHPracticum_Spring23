@@ -33,7 +33,7 @@ Merrick 205</p>
 <p><a href="https://susannalles.com">Susanna Allés-Torrent</a><br/>
 <a href="mailto:susanna_alles@miami.edu">susanna_alles@miami.edu</a><br/>
 Merrick 210-23<br/>
-Th. 3-4:30PM or by appointment
+All Thursdays from 4pm to 5pm in Merrick 205 for troubleshooting AND by appointment
 </p>
   
 </div>
