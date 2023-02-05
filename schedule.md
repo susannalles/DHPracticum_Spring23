@@ -29,37 +29,39 @@ Each week, this schedule will be updated with more details on the exercices and 
 
 ## (3) February 2, 2023: The Basics, Formats | GitHub Pages 
 
-1. Read: 
+1. From 5pm to 6:30pm: *Students Presentations of their research and DH project* 
+2. Read: 
   - Drucker, Johanna. "Chapter 3 Digitization." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
   - Digital Humanities Workbench, "[File Formats](https://www2.fgw.vu.nl/werkbanken/dighum/digital_data/digital_text/file_formats.php)" 
-2. Hands-on: 
+4. Hands-on: 
   - Milligan, Ian, and James Baker. “[Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash).” *Programming Historian*, no. 3, 2014.  
-  - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
-  - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
-  - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
-  - [Class Practise](https://susannalles.github.io/DHPracticum_Spring23/exercises/3.Feb_2_2023/) 
-
-*Students Presentations of their research and DH project* 
-
-## (4) February 9, 2023: Metadata | Zotero 
-
-1. Read: 
-  - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
-  - Smith, James. “Working with the Semantic Web.” *Doing Digital Humanities. Practice, Training, Research*, edited by Constance Crompton et al., Routledge, 2016, pp. 273–89.
-2. Hands-on: 
-  - [Install and Work with Zotero](http://susannalles.github.io/workshops/Zotero.html). 
-  - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
+  - [Class Practice](https://susannalles.github.io/DHPracticum_Spring23/exercises/3.Feb_2_2023/) 
 
 
-## (5) February 16, 2023: Classification, Structures | HTML, CSS 
-
+## (4) February 9, 2023: Classification, Structures | HTML, CSS  
 1. Read:  
   - Sperberg-McQueen, C.M. “[Classification and its Structures](https://ebookcentral.proquest.com/lib/miami/reader.action?docID=4093339&ppg=447)”, in *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
-  - Foucault, Michel. “Preface,” *[The Order of Things. An Archaeology of the Human Sciences](https://monoskop.org/images/a/a2/Foucault_Michel_The_Order_of_Things_1994.pdf)*. New York: Vintage Books, pp. XV-XXIV.
+  
+  Optional: 
+    - Foucault, Michel. “Preface,” *[The Order of Things. An Archaeology of the Human Sciences](https://monoskop.org/images/a/a2/Foucault_Michel_The_Order_of_Things_1994.pdf)*. New York: Vintage Books, pp. XV-XXIV.
   - Borges, Jorge Luis. "[The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)"
 2. Hands-on: 
   - Turkel, William J., and Adam Crymble. “[Understanding Web Pages and HTML](https://programminghistorian.org/en/lessons/viewing-html-files).” *Programming Historian*, no. 1, 2012. 
   - W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
+  - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
+  - Installation of a [Jekyll Theme](https://jekyllthemes.io/)
+
+For those of you taking Jekyll to the next level, you can follow: 
+  - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
+
+
+## (5) February 16, 2023: Metadata | Zotero 
+
+1. Read: 
+  - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
+2. Hands-on: 
+  - [Install and Work with Zotero](http://susannalles.github.io/workshops/Zotero.html). 
+  - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
 
 
 ## (6) February 23, 2023: Data Modeling, Text Analysis | AntConc
