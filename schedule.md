@@ -43,8 +43,10 @@ Each week, this schedule will be updated with more details on the exercices and 
   - Sperberg-McQueen, C.M. “[Classification and its Structures](https://ebookcentral.proquest.com/lib/miami/reader.action?docID=4093339&ppg=447)”, in *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
   
   Optional: 
-    - Foucault, Michel. “Preface,” *[The Order of Things. An Archaeology of the Human Sciences](https://monoskop.org/images/a/a2/Foucault_Michel_The_Order_of_Things_1994.pdf)*. New York: Vintage Books, pp. XV-XXIV.
+  
+  - Foucault, Michel. “Preface,” *[The Order of Things. An Archaeology of the Human Sciences](https://monoskop.org/images/a/a2/Foucault_Michel_The_Order_of_Things_1994.pdf)*. New York: Vintage Books, pp. XV-XXIV.
   - Borges, Jorge Luis. "[The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)"
+
 2. Hands-on: 
   - Turkel, William J., and Adam Crymble. “[Understanding Web Pages and HTML](https://programminghistorian.org/en/lessons/viewing-html-files).” *Programming Historian*, no. 1, 2012. 
   - W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
