@@ -5,91 +5,89 @@ title: HTML and CSS
 
 ## The A, B, C 
 
-Website are built with a language calle Hypertext Markup Language or HTML. It is called "hypertext" simply because it goes beyond the text and creates links among texts. In fact, when you open the browser, ... 
+Website are built with a language called Hypertext Markup Language or HTML. It is called "hypertext" simply because it goes beyond the text and creates links among texts. 
 
-Cuando abrís vuestro navegador, en realidad estáis viendo el resultado del código en el que está escrito la página. Las secciones, los títulos, los menús, los colores no existen como tal, como en un documento impreso, sino que es código. 
+In fact, when you open the browser, you are seeing the result of the code in which the page is written. The sections, titles, menus, paragraphs, etc., even the colors, do not exist as such, like in a print document, but they are only code. 
 
-El HTML es lo que determina la estructura de la página, mientras que el diseño se delega a otro lenguaje: CSS que corresponde a Cascading Style Sheet. 
+HTML determines the structure of the page, whereas the design is given by another language: the Cascading Style Sheet or CSS. 
 
-Para empezar podemos crear una página de prueba. Podéis hacerlo de la siguiente manera: 
+To begin, we can create a test page. Follow this steps: 
 
--	Abrid el terminal
--	Cread una nueva carpeta llamada, por ejemplo, HTML: `mkdir HTML`
--	Cread un nuevo documento html: `touch prueba1.html`
+-	Open the terminal and go to our course folder
+-	Create a new folder calle `Site`: `mkdir Site`
+-	Create a new HTML document: `touch test1.html`
 
-Para manipular el fichero HTML necesitaremos un editor de texto, os podéis bajar Bbedit o Notepad++, por ejemplo.
+To work with a HTML file you only need a text editor, such as [Visual Studio Code](https://code.visualstudio.com/) for instance. 
 
-Una página web estática es un conjunto de archivos HTML que están ubicados en un servidor. Por lo general se estructura con carpetas diferentes, una para cada tipo de archivo y/o sección. Por ejemplo, 
+An static website is a group of HTML files that are hosted in a server. In general, a site is structured in different folders, in the main one there is the `index.html` which is the one the browser opens by default, plus other html files. Normally there is a CSS folder with one or several .css files that give the design to the site, anthoter folder for Javascript scripts, and another one for the images. 
 
  ![Estructura página HTML](https://github.com/susannalles/susannalles.github.io/blob/master/_teaching/SPA322/img/html1.png)
 
-Imaginemos que tenemos una página que se llama “cursos” y que en su interior tenemos una página de bienvenida (`index.html`, que abre el navegador por defecto), y tres diferentes links que nos llevan a tres carpetas diferentes. Imaginemos ahora que navegando llegamos a la página `emperadores.html`; en el navegador aparecerá: 
+Let's imagine that we have a page called "courses" and that inside it we have a welcome page (`index.html`), and three different links that take us to three different folders. Let's imagine also that while browsing we arrive at the page `emperadores.html`; in the browser it will appear:  
 
 ![Estructura página HTML](https://github.com/susannalles/susannalles.github.io/blob/master/_teaching/SPA322/img/html2.png)
  
-El funcionamiento es exactamente el mismo que cuando navegamos por nuestro Finder, de manera que si queremos modificar una página en concreto, deberemos abrir y manipular ese archivo, en este caso `emperadores.html`. 
+The mechanism is exactly the same as when we navigate through our Finder, so if we want to modify a specific page, we will have to open and manipulate that file, in this case `emperadores.html`. 
 
-### HTML
+## HTML
 
-El lenguaje HTML tiene su propia sintaxis, donde el elemento principal son las etiquetas (tags) que se componen de una etiqueta de inicio <> (opening tag) y una etiqueta de cierre </> (closing tag). Las etiquetas se anidan unas dentro de las otras, como si fueran un árbol genealógico. Recordad: todo lo que se abre se cierra. 
+The HTML language has its own syntax, based on "tags". These tags are composed of an opening tag `<tag>` and a closing tag `<tag/>`. They are nested inside each other, as if they were a family tree. And remember: everything that opens closes. 
 
-```
-<etiqueta1>
-    <etqueta2>
-       <etiqueta3>Esto es el contenido</etiqueta3>
-    </etqueta2>
-</etiqueta1>
-```
-
-Hay algunos conceptos preliminares a retener:
-
--	Una etiqueta se compone del elemento (o nombre), y a veces de un atributo que conlleva obligatoriamente un valor:
-
-```
-<elemento atributo=“valor”>contenido</elemento>
+```html
+<tag1>
+    <tag2>
+       <tag3>This is content</tag3>
+    </tag2>
+</tag1>
 ```
 
--	A veces una etiqueta puede estar vacía, es decir, no tener contenido y se señala así: `<etiqueta/>`. En HTML es el caso, por ejemplo, de los saltos de línea `<br/>` o de las imágenes `<img/>`. 
+There are some preliminary concepts to retain:
 
-El documento HTML se compone de diversas secciones obligatorias: 
+-	A tag is composed of the element (or name), and sometimes of an attribute that must carry a value:
 
-- `<!DOCTYPE html>` Indica al navegador que el tipo de documento es html 
-- `<html>` es la etiqueta que englobará todo el contenido, tanto el - `<head>` como el <body>
-- `<head>` comprende todas las informaciones del fichero que no aparecerán en el navegador
-- `<title>` es el título que aparece en la pestaña del navegador
-- `<body>` es propiamente el cuerpo de la página, lo que sí veremos, por tanto, en el navegador.
-
-La estructura de cualquier documento es la siguiente:
-
+```html
+<element attribute=“value”>content</element>
 ```
+
+-	Sometimes a tag can be empty, meaning it has no meaning, in which case we use: `<tag/>`. This is the case, in HTML, of line breaks `<br/>` or images `<img/>`. 
+
+  The HTML document is composed of several mandatory sections: 
+
+- `<!DOCTYPE html>` Tells the browser that the document type is HTML. 
+- `<html>` is the tag that will contain all the content, both the `<head>` and the <body>.
+- `<head>` contains all metadata and the information in the file that will not appear in the browser.
+- `<title>` is the title that appears on the browser tab.
+- `<body>` is the actual body of the page, which we will see in the browser.
+  
+The structure of any HTML file is: 
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-   	 <title>Título de mi página</title>
+   	 <title>Title of my page</title>
     </head>
     <body>
     </body>
 </html>
 ```
 
-#### Estructuras y elementos HTML básicos:
+#### Basic HTML structures and elements
 
-- `<p>` se utiliza para crear párrafos 
-- `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` sirven para señalar los títulos, de mayor a menor
-- `<a href= “www.enlace.html”>el link</a>` La etiqueta `<a>` sirve para crear todo tipo de enlaces 
-- `<img scr=“localizacionURL”>` para inserir imágenes al interno de la página. Este elemento debe contener un atributo scr que debe contener la localización del fichero de la imagen.
-Si quisiéramos convertir nuestra imagen en un link, no tendríamos más que anidar la imagen al interno de una etiqueta `<a>`: 
-`<a href="http://www.direccion.com"><img src="imagen.png"/></a>`
+- `<p>` is used to create paragraphs.  
+- `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` serve to indicate the title, fom highest to lowest. 
+- `<a href= “www.link.html”>the link</a>` The tag `<a>` is used to create links. 
+- `<img scr=“URL”>` to insert images inside the page. This element must contain a scr attribute which must contain the location of the image file. If we wanted to convert our image into a link, we would simply nest the image inside a `<a>` tag:  `<a href="http://www.direccion.com"><img src="imagen.png"/></a>`
 
-#### Para crear listas: 
+#### Lists: 
   
-- `<ol>` ordered lists, creará una lista numérica; en su interior se anidaran los ítems
-- `<ul>` unordered list,  creará una lista; en su interior se anidaran los ítems
-- `<li>` list item 
+- `<ol>` ordered lists, it will create a numerical list; inside, the items will be nested.
+- `<ul>` unordered list,  it will create a list; inside the list the items will be nested.
+- `<li>` list item. 
 
 Las listas se pueden anidar unas dentro de las otras, por ejemplo: 
 
-```
+```html
 <ol>
       <li>item</li>
           <ul>
@@ -100,8 +98,7 @@ Las listas se pueden anidar unas dentro de las otras, por ejemplo:
 </ol>
 ```
 
-Comentar el código es siempre muy importante, para ello podemos utilizar una etiqueta especial que no nos aparecerá en el navegador: 
-`<!-- comentario -->` 
+Comentar el código es siempre muy importante, para ello podemos utilizar una etiqueta especial que no nos aparecerá en el navegador: `<!-- comentario -->` 
 
 #### Typografías simples
   
@@ -112,11 +109,11 @@ Comentar el código es siempre muy importante, para ello podemos utilizar una et
 
 #### Tablas
 
-`<table>`
-	`<tr>` (table row) corresponde a las  filas 
-	`<td>` (table data) corresponde a las columnas
+- `<table>
+- `<tr>` (table row) corresponde a las  filas 
+- `<td>` (table data) corresponde a las columnas
 	
-```
+```html
 <table border="1px">
         	<tr>
             	<td>Fila 1: Columna 1</td>
@@ -139,10 +136,10 @@ Comentar el código es siempre muy importante, para ello podemos utilizar una et
 
 Opcionalmente podemos utilizar: 
 
-`<thead>` Para el título, que contiene `<tr>` y `<th>`
-`<tbody>` Para los datos de la tabla
+- `<thead>` Para el título, que contiene `<tr>` y `<th>`
+- `<tbody>` Para los datos de la tabla
 
-```
+```html
 <table border="1px">
       <thead>
            <tr>
@@ -173,7 +170,7 @@ Opcionalmente podemos utilizar:
 
 Si queremos combinar celdas usaremos `colspan` seguido del signo `=` y entre comillas el número de celdas a combinar:
 
-```
+```html
 <thead>
 	<tr>
 		<th colspan=”2”>Título columna 1</th>
@@ -182,11 +179,12 @@ Si queremos combinar celdas usaremos `colspan` seguido del signo `=` y entre com
 ```
 
 #### Divisiones 
+  
 Las divisiones es uno de los elementos más importantes y se utiliza para crear divisiones en la página: `<div>`
 
 Podéis realizar una primera prueba añadiendo ancho y alto de la división, y también color:
 
-```
+```html
 <div style="width:50px; height:50px; background-color:red"></div>
 
 <div style="width:50px; height:50px; background-color:blue"></div>
@@ -195,9 +193,11 @@ Podéis realizar una primera prueba añadiendo ancho y alto de la división, y t
 ```
 
 #### Span
+  
 - `<span>` Para dar estilo a pequeñas partes de la página (por ej. palabras o grupo de palabras). 
 
 #### Algunos tutoriales útiles: 
+  
 -	[Codecademy: HTML & CSS](https://www.codecademy.com/tracks/web) 
 -	[W3Schools](http://www.w3schools.com/html/)
 
@@ -206,12 +206,10 @@ Podéis realizar una primera prueba añadiendo ancho y alto de la división, y t
 
 Para dar estilo a una página podemos proceder de tres maneras distintas: 
 
-I. Inserir la orden de diseño al interno de las etiquetas. 
-Ej. `<p style=“font-size:12px”>`
+- Inserir la orden de diseño al interno de las etiquetas. Ej. `<p style=“font-size:12px”>`
+- Añadir dentro del `<head>` el código CSS, de la siguiente manera:
 
-II. Añadir dentro del `<head>` el código CSS, de la siguiente manera:
-
-```
+```html
 <head>
 	<title>Título de la página</title>
 	<style type= “text/css”>
@@ -220,7 +218,7 @@ II. Añadir dentro del `<head>` el código CSS, de la siguiente manera:
 </head>
 ```
 
-III. Crear un fichero diferente que contenga todas las instrucciones CSS: `fichero.css` que se señalará en el `<head>` del documento HTML:
+- Crear un fichero diferente que contenga todas las instrucciones CSS: `fichero.css` que se señalará en el `<head>` del documento HTML:
 
 `<link type="text/css" rel="stylesheet" href="hoja_estilo.css" />`
 
@@ -228,7 +226,7 @@ La opción más utilizada es la III, pues si creamos, pongamos por caso, un siti
 
 La sintaxis de las CSS es sencillo pero puede llegar a complicarse bastante. La estructura básica de una regla CSS es la siguiente: 
 
-```
+```css
 selector{
 propiedad: valor; 
 }
@@ -236,44 +234,38 @@ propiedad: valor;
 
 El selector puede ser cualquier etiqueta o elemento HTML o bien cualquier clase o identificador. La propiedad es la característica que quiere modificarse, como el color de fondo o de la fuente, el tamaño y familia de la fuente, etc. Mientras que el valor es propiamente el aspecto particular que queremos dar a ese o esos elementos HTML. 
 
-Los comentarios al interno de las CSS se señalan así: 
-`/* Comentario */`
+Los comentarios al interno de las CSS se señalan así: `/* Comentario */`
 
 Veamos qué comandos son los más básicos: 
  
 #### Fuentes de letras:
 
-`font-size: Xpx;`
-
-- Familias de fuente (Arial, Verdana, Impact, … ):
-`font-family: Arial;`
-
-Hay diferentes tipos de letras: serif, sans-serif, cursive… cada ordenador tiene las suyas. Normalmente se opta por ofrecer diversas fuentes, en caso que la máquina no tenga la primera, pasa a la segunda: 
-
-`font-family: Tahoma, Verdana, sans-serif;`
-
-Las medidas pueden darse en píxeles `px` (ej. `font-size:15px;`) y establecer un tamaño fijo, o bien en em que otorga un tamaño relativo a la pantalla: `1em` corresponde al tamaño por defecto, `0.5em` a la mitad del tamaño, y `2em` al doble. 
+- `font-size: Xpx;`
+- Familias de fuente (Arial, Verdana, Impact, … ): `font-family: Arial;`
+- Hay diferentes tipos de letras: serif, sans-serif, cursive… cada ordenador tiene las suyas. Normalmente se opta por ofrecer diversas fuentes, en caso que la máquina no tenga la primera, pasa a la segunda: `font-family: Tahoma, Verdana, sans-serif;`
+- Las medidas pueden darse en píxeles `px` (ej. `font-size:15px;`) y establecer un tamaño fijo, o bien en em que otorga un tamaño relativo a la pantalla: `1em` corresponde al tamaño por defecto, `0.5em` a la mitad del tamaño, y `2em` al doble. 
 
 #### Colores:
 
-`color: green;`
-
-Los colores pueden expresarse de diferentes formas: 
--	colores sencillos con sus nombres: `black`, `pink`, `violet`, `green`, `yellow`
--	con valores hexadecimales (# y 6 dígitos). Vid. [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp).
-`background-color: red;`
+- `color: green;`
+- Los colores pueden expresarse de diferentes formas: 
+  * colores sencillos con sus nombres: `black`, `pink`, `violet`, `green`, `yellow`
+  * con valores hexadecimales (# y 6 dígitos). Vid. [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp).
+- `background-color: red;`
 
 #### Justificación del texto:
-`text-align:center;`
-center, right, left 
+  
+- center, right, left : `text-align:center;`
+
 
 #### Tamaños: 
-`height:` la altura se expresa en píxeles
-`width:` el ancho también se expresa en píxeles
+  
+- `height:` la altura se expresa en píxeles
+- `width:` el ancho también se expresa en píxeles
 
 Es útil especialmente para las div: 
 
-```
+```css
 div{
 	background-color:#cc0000;
 	height:100px;
@@ -285,33 +277,34 @@ div{
 
 Podemos dar un tipo especial a determinados elementos. Por ejemplo, en el caso de los links, `<a>`, podemos señalar de qué color lo queremos y si debe ir subrayado o no: 
 
-```
+```css
 a{
 	text-decoration: none;
 }
 ```
 
 #### Bordes:
+  
 Especialmente en las tablas, aunque también en los elementos `<div>`,  es útil utilizar los bordes. Por ejemplo, si tenemos una tabla: 
 
-```
+```css
 selector{
 	border: 1px solid black;
 }
 ```
 
-`border-radius:` para redondear los bordes 
+- `border-radius:` para redondear los bordes 
 
 
-Las reglas CSS pueden y deben darse de manera general, sin necesidad de añadir el atributo style a cada etiqueta. Para ello utilizaremos los atributos `@class` y `@id`. 
+Las reglas CSS pueden y deben darse de manera general, sin necesidad de añadir el atributo style a cada etiqueta. Para ello utilizaremos los atributos `@class` y `@id`: 
 - `@class` sirve para dar estilo a una clase de elementos que comparten una serie de características. 
 - `@id` sirve para dar un identifador único y por tanto otorogar una serie de características propias. 
 
 Por ejemplo: 
 
-`<div class=“texto”>` suponemos que hay más de una `<div>` que queremos con las mismas características. En la CSS deberíamos señalarlo así, por ejemplo: 
+- `<div class=“texto”>` suponemos que hay más de una `<div>` que queremos con las mismas características. En la CSS deberíamos señalarlo así, por ejemplo: 
 
-```
+```css
 .texto{
 	font-size:15px;
 	font-family:Arial;
@@ -321,20 +314,21 @@ Por ejemplo:
 
 Mientras que una `<div id= “contenedor”>` señala que es la única en todo el documento que habrá unas características concretas. En la CSS se reflejaría con el símbolo `#`:
 
-```
+```css
 #contenedor{
 	background-color: yellow;
 }
 ```
 
 #### Pseudo-selectores
+  
 Muy utilizado cuando queremos modificar parcialmente el comportamiento de un elemento, como en los links. Hay tres tipos diferentes: 
 
 - `a:link:` link que no se ha todavía consultado
 - `a:visited:` link consultado
 - `a:hover:` cuando pasamos el cursor por encima. 
 
-```
+```css
 selector:pseudo-class-selector{
 	propiedad:valor}
 
