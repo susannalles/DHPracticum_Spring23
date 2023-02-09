@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Example of an HTML</title>
+        <style>
+            body{
+                font-size:18px;
+                font-family:'Cormorant Garamond', serif;
+                color:#3b3a30;
+            }
+            h2{
+            color: #3b3a30;
+            }
+            #header{
+                border:3px solid #b2c2bf;
+                color:#3b3a30;
+                text-align: center;
+            }
+            #menu-principal{
+                border-top:1px solid #b2c2bf;
+            }
+            #menu-principal ul{
+                list-style-type:none;
+                margin:0;
+                padding:0;
+                overflow:hidden;
+                background-color:#eaece5;
+            }
+            
+            #menu-principal li{
+                float:left;
+            }
+            
+            #menu-principal li a{
+                display:inline-block;
+                color:#3b3a30;
+                text-align:center;
+                padding:14px 16px;
+                text-decoration:none;
+            }
+            
+            #menu-principal li a:hover{
+                background-color:#b2c2bf;
+            }
+
+        #home{
+        background-color:#eaece5;
+        padding: 15px;
+        margin-top: 5px;
+        text-align: justify;
+        }
+        
+        #cv{
+        padding: 15px;
+        margin-top: 5px;
+        background-color: #b2c2bf;
+        padding: 5px;}
+        
+        #projects{
+        padding: 15px;
+        margin-top: 5px;
+        background-color: #c0ded9;
+        padding: 5px;
+        }
+        footer{
+        text-align: center;}
+        </style>
+    </head>
+    <body>
+        <!-- We will do three principal divisions: 1)header, 2) main container, and 3) footer -->
+        <div id="header">
+            <h1>Example of an HTML</h1>
+            <div id="menu-principal">
+                <ul>
+                    <li>
+                        <a href="#home">Inicio</a>
+                    </li>
+                    <li>
+                        <a href="#cv">CV</a>
+                    </li>
+                    <li>
+                        <a href="#projects">Ejercicios</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- -->
+        <div id="container">
+            <div id="home">
+                <p>Susanna ALLÉS TORRENT es Profesora Ayudante Doctor (Assistant Professor) en la
+                    University of Miami (FL). Doctora por la Universidad de Barcelona y diplomada en
+                    Humanidades digitales (HD) por la École nationale des chartes (Paris) (2012).
+                    Lectora en HD en Columbia University (2014-2016), investigadora postdoctoral en
+                    la Institució Milà i Fontanls-CSIC y profesora adjunta en la Universitat de
+                    Barcelona (2012-2014). </p><p>Desde 2013 es profesora colaboradora en diversos masters
+                    en HD y edición digital en la Universidad Nacional de Educación a Distancia y en
+                    la Universitat Oberta de Catalunya. Ha participado en diversos proyectos
+                    nacionales españoles, de los que están en activo: “Digital Humanities Innovation
+                    Lab: Digital editions, linked open data and virtual research environment for
+                    humanities work” (UNED), y “Edición y estudio de 36 comedias de Lope de Vega”
+                    (UAB). Otros proyectos digitales han sido: “Hipertexto y paratexto en las
+                    traducciones españolas de la literatura italiana: el Orlando Furioso traduzido
+                    en romance castellano” (UB, 2007-2008) o “Extension and development of the
+                    Corpus Documentale Latinum Cataloniae (CODOLCAT) database” (CSIC, 2012-2014).</p>
+                    <p>Sus publicaciones incluyen una monografía publicada en Brepols, artículos
+                    relacionados con la edición digital (“Edición digital y algunas tecnologías
+                    aliadas: codificación TEI y transformaciones XSLT”, Insula 822, 2015; “Tiempos
+                    hay de acometer y tiempos de retirar: literatura áurea y edición digital”,
+                    Studia Aurea 11, 2017), capítulos de libro, traducciones y reseñas en revistas
+                    nacionales e internacionales. </p><p>Ha realizado múltiples estancias predoctorales, y
+                    postdoctorales en diversos centros extranjeros, entre los cuales destacan el
+                    Center for Digital Scholarship de Brown University (EEUU), y el Institute
+                    d’Histoire et Recherche de Texte (IRHT-CNRS, Paris). Ha organizado diferentes
+                    actividades, como el Seminario XML-TEI para obras lexicográficas de la
+                    Antigüedad y la Edad Media (2013) o la Escuela de verano: Creación y utilización
+                    de corpus de textos medievales (2014), financiada por el proyecto COST “Medioevo
+                    Europeo” (ambas iniciativas premiadas y financiadas por la European Association
+                    of Digital Humanities). Y ha participado en el comité científico de los
+                    congresos de la Asociación de Humanidades Digitales Hispánicas. </p>
+            </div>
+            <div id="cv">
+                <h2>Curriculum Vitae</h2>
+                <h3>Education</h3>
+                <ul>
+                    <li>Ph.D Filología románica, University of Barcelona (UB), 2012 M.A. en Digital
+                        Humanities, École Nationale des Chartes, Paris 2012</li>
+                    <li>...</li>
+                </ul>
+                <h3>Academic positions</h3>
+                <ul>
+                    <li>Assistant Professor, University of Miami, 2016-</li>
+                    <li>Lecturer in Digital Humanities, Columbia University, 2014-2016</li>
+                    <li>...</li>
+                </ul>
+                <h3>Etc.</h3>
+            </div>
+            <div id="Porjects">
+                <h2>Projects</h2>
+                <p>Here your projects</p>
+            </div>
+        </div>
+        
+        <footer>
+            <a>Susanna_alles@miami.edu</a>
+        </footer>
+    </body>
+</html>
