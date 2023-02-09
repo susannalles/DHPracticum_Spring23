@@ -50,7 +50,7 @@ Each week, this schedule will be updated with more details on the exercices and 
 2. Hands-on: 
   - Turkel, William J., and Adam Crymble. “[Understanding Web Pages and HTML](https://programminghistorian.org/en/lessons/viewing-html-files).” *Programming Historian*, no. 1, 2012. 
   - W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
-  - [Exercise 1: HTML]() (in Class)
+  - [Exercise 1: HTML](https://susannalles.github.io/DHPracticum_Spring23/exercises/4.HTML/) (in Class)
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
   - Installation of a [Jekyll Theme](https://jekyllthemes.io/). See examples [here](). 
 
