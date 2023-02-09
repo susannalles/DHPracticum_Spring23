@@ -52,7 +52,7 @@ Each week, this schedule will be updated with more details on the exercices and 
   - W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
   - [Exercise 1: HTML](https://susannalles.github.io/DHPracticum_Spring23/exercises/4.HTML/) (in Class)
   - A Workflow: Markdown, GitHub Pages ([Steps](https://susannalles.github.io/DHPracticum/practice/jekyll/index.html))
-  - Installation of a [Jekyll Theme](https://jekyllthemes.io/). See examples [here](). 
+  - [Time to get serious: choose your design](https://susannalles.github.io/DHPracticum_Spring23/exercises/4.PortfoliosSamples/) 
 
 For those of you taking Jekyll to the next level, you can follow: 
   - Visconti, Amanda. “[Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).” *Programming Historian*, no. 5, Apr. 2016.
