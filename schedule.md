@@ -63,8 +63,9 @@ For those of you taking Jekyll to the next level, you can follow:
 1. Read: 
   - Drucker, Johanna. "Chapter 4 Metadata, Markup, and Data Description." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 2. Hands-on: 
-  - [Install and Work with Zotero](http://susannalles.github.io/workshops/Zotero.html). 
+  - [Install and Work with Zotero](https://susannalles.github.io/tutorials/docs/Zotero.html) (updated). 
   - Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).” *Programming Historian*, no. 3, 2014.
+  - [Markdown and Pandoc](https://susannalles.github.io/tutorials/docs/markdown-pandoc.html)
 
 
 ## (6) February 23, 2023: Data Modeling, Text Analysis | AntConc
