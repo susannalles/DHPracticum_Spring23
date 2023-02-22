@@ -71,13 +71,15 @@ For those of you taking Jekyll to the next level, you can follow:
 ## (6) February 23, 2023: Data Modeling, Text Analysis | AntConc
 
 1. Read: 
-  - Jannidis, Fotis, and Julia Flanders. “[Data Modeling in a Digital Humanities Context. An Introduction](https://doi.org/10.4324/9781315552941).” *The Shape of Data in Digital Humanities: Modeling Texts and Text-Based Resources*, Routledge, 2018, pp. 3–25.
   - Weisser, Martin. “[Understanding Corpus Design](https://doi.org/10.1002/9781119180180).” *Practical Corpus Linguistics: An Introduction to Corpus-Based Language Analysis*, John Wiley & Sons, 2016.
   - Drucker, Johanna. "Chapter 2 Data Modeling and Use." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
+
+Optional: 
+- Jannidis, Fotis, and Julia Flanders. “[Data Modeling in a Digital Humanities Context. An Introduction](https://doi.org/10.4324/9781315552941).” *The Shape of Data in Digital Humanities: Modeling Texts and Text-Based Resources*, Routledge, 2018, pp. 3–25.
  
 2. Hands-on: 
   - Turkel, William J. “Basic Text Analysis with Command Line Tools in Linux.” William J Turkel, 15 June 2013, <https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/>. 
-  - Install [AntConc](https://www.laurenceanthony.net/software/antconc/)
+  - Download and install [AntConc](https://www.laurenceanthony.net/software/antconc/)
   - Froehlich, Heather. “[Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc).” *Programming Historian*, no. 4, 2015. 
 
 
