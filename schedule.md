@@ -78,7 +78,7 @@ Optional:
 - Jannidis, Fotis, and Julia Flanders. “[Data Modeling in a Digital Humanities Context. An Introduction](https://doi.org/10.4324/9781315552941).” *The Shape of Data in Digital Humanities: Modeling Texts and Text-Based Resources*, Routledge, 2018, pp. 3–25.
  
 2. Hands-on: 
-  - Turkel, William J. “Basic Text Analysis with Command Line Tools in Linux.” William J Turkel, 15 June 2013, <https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/>. 
+  - Turkel, William J. “[Basic Text Analysis with Command Line Tools in Linux](https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/).” William J Turkel, 15 June 2013. 
   - Download and install [AntConc](https://www.laurenceanthony.net/software/antconc/)
   - Froehlich, Heather. “[Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc).” *Programming Historian*, no. 4, 2015. 
 
