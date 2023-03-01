@@ -2,9 +2,13 @@
 layout: page
 title: Topic Modeling Tutorial
 ---
+
 By Lindsay Thomas
+
 # Topic Modeling with MALLET
+
 ## 1. Install MALLET: Please complete before class on Thursday, March 9
+
 The good news about using MALLET is that installing it on your computer is the hardest part. Here are some links to tutorials that include good installation instructions for both Windows and Mac machines:
 
 - ["Getting Started with Topic Modeling and MALLET," by Shawn Graham, Scott Weingart, and Ian Milligan, *Programming Historian*](http://programminghistorian.org/en/lessons/topic-modeling-and-mallet){:target="_blank"}: The OG DH MALLET tutorial. Follow the instructions under "Installing MALLET." Includes detailed installation instructions for both Windows and Mac, including screenshots, but was posted over 10 years now, so some things are likely out of date.
