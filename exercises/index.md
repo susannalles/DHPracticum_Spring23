@@ -11,5 +11,6 @@ title: Exercises
 4. [Basic of HTML](https://susannalles.github.io/DHPracticum_Spring23/exercises/4.HTML)
 5. [Sample CV](https://susannalles.github.io/DHPracticum_Spring23/exercises/4.sample_page.html)
 6. [In Class Exercise - March, 2nd](https://susannalles.github.io/DHPracticum_Spring23/exercises/5.InClassExercise/)
+7. [Mallet By Lindsay Thomas](https://susannalles.github.io/DHPracticum_Spring23/exercises/mallet/)
 
 And more to come...
