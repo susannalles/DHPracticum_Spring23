@@ -85,12 +85,15 @@ Optional:
 
 ## (7) March 2, 2023: Vizualiations, Text Analysis | Voyant 
 
+5:00 - 6:00pm: In Class Exam
+
 1. Read: 
   - Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count](http://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016. 
   - Drucker, Johanna. “[Graphical Approaches to the Digital Humanities](http://www.miami.eblib.com/EBLWeb/patron/?target=patron&extendedid=P_4093339_0).” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al., John Wiley & Sons, 2016.
   - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 2. Hands-on: 
   - [Voyant Tutorial](https://voyant-tools.org/docs/#!/guide/tutorial)
+  - Install all requirements for next class: [Mallet By L. Thomas](https://susannalles.github.io/DHPracticum_Spring23/exercises/mallet/)
 
 ## (8) March 9, 2023: Topic Modeling, Text Analysis | Mallet 
 
@@ -109,6 +112,9 @@ Other recommended readings:
 - Ted Underwood, “[Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/),” (2012)
 - David Mimno, “T[he Details: Training and Validating Big Models on Big Data](https://vimeo.com/53080123)” (video recording starting around 3:30) 
 - Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ ),” *Journal Of Digital Humanities* 2.1 (Winter 2012) 
+
+2. Hands on: 
+- [Mallet Tutorial By L. Thomas](https://susannalles.github.io/DHPracticum_Spring23/exercises/mallet/)
 
 
 ### Spring Break 
