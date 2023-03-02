@@ -9,7 +9,7 @@ Lins to the students GitHub repositories and GitHub Pages.
 - Gabrielle:  [GitHub Repo](https://github.com/gjeanlouis/gjeanlouis.github.io) and [GitHub Page](https://gjeanlouis.github.io)
 - Hyekyung: [GitHub Repo](https://github.com/austraea/hyekyung) and [GitHub Page](https://austraea.github.io/hyekyung/), [Personal Webpage](https://austraea.github.io/)
 - Iman:  [GitHub Repo](https://github.com/imangareeboo/imangareeboo.github.io) and [GitHub Page](https://imangareeboo.github.io/)
-- Kathryn:  [GitHub Repo](https://github.com/kathrynesanford/kathrynesanford.github.io) and [GitHub Page](https://kathrynesanford.github.io/)
+- Kathryn:  [GitHub Repo](https://github.com/kes151/kes151.github.io) and [GitHub Page](https://kes151.github.io/)
 - Luli:  [GitHub Repo](https://github.com/lulischmader/lulischmader.github.io) and [GitHub Page](https://lulischmader.github.io/)
 - Micaela: [GitHub Repo](https://github.com/mdonabella/ENG613) and [GitHub Page](https://mdonabella.github.io/ENG613), and [Personal Webpage](https://mdonabella.github.io/)
 - Michael:  [GitHub Repo](https://github.com/mrileysoriano/mrileysoriano.github.io), [GitHub Page](https://mrileysoriano.github.io), and [Personal Webpage](http://michaelsoriano.net/)
