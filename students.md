@@ -12,7 +12,7 @@ Lins to the students GitHub repositories and GitHub Pages.
 - Kathryn:  [GitHub Repo](https://github.com/kathrynesanford/kathrynesanford.github.io) and [GitHub Page](https://kathrynesanford.github.io/)
 - Luli:  [GitHub Repo](https://github.com/lulischmader/lulischmader.github.io) and [GitHub Page](https://lulischmader.github.io/)
 - Micaela: [GitHub Repo](https://github.com/mdonabella/ENG613) and [GitHub Page](https://mdonabella.github.io/ENG613), and [Personal Webpage](https://mdonabella.github.io/)
-- Michael:  [GitHub Repo](https://github.com/mikesori.github.io), [GitHub Page](https://mikesori.github.io/portfolio), and [Personal Webpage](http://michaelsoriano.net/)
+- Michael:  [GitHub Repo](https://github.com/mrileysoriano/mrileysoriano.github.io), [GitHub Page](https://mrileysoriano.github.io), and [Personal Webpage](http://michaelsoriano.net/)
 - Shai:  [GitHub Repo](https://github.com/shai-cohen/shai-cohen.github.io) and [GitHub Page](https://shai-cohen.github.io/)
 - Taryn: [GitHub Repo](https://github.com/taryneliana/taryneliana.github.io) and [GitHub Page](https://taryneliana.github.io/)
 - Vanessa: [GitHub Repo](https://github.com/vanessabcs/DH2023), [GitHub Page](https://vanessabcs.github.io/DH2023/), and [Personal webpage](https://vanessabcs.github.io/)
