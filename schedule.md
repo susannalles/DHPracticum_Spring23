@@ -103,7 +103,7 @@ Session offered by Prof. Lindsay Thomas
 - Lisa Marie Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/),” *Journal Of Digital Humanities* 2.1 (Winter 2012)  
 - Lindsay Thomas and Abigail Droge, “[The Humanities in Public: A Computational Analysis of US National and Campus Newspapers](https://culturalanalytics.org/article/32036-the-humanities-in-public-a-computational-),” *Journal of Cultural Analytics* (2022) 
   * Code repo: <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BD9CE8>,  
-  * Browsable code repo: https://github.com/lcthomas/humanitiespublic 
+  * Browsable code repo: <https://github.com/lcthomas/humanitiespublic> 
 - Topic models discussed in the article:
   * [Collection 33](http://harbor.english.ucsb.edu:10002/collections/20200515_1455_us-classification-results-top-newspapers-universitywire-hum-sci/dfr-browser/topics100/)  
   * [Collection 36](http://harbor.english.ucsb.edu:10002/collections/20200522_1900_us-humanities-classification-results-top-newspapers-universitywire-not-hum/dfr-browser/topics150/) 
