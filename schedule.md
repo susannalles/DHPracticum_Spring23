@@ -114,6 +114,7 @@ Other recommended readings:
 - Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ ),” *Journal Of Digital Humanities* 2.1 (Winter 2012) 
 
 2. Hands on: 
+- Download [the corpus](https://github.com/susannalles/DHPracticum_Spring23/blob/gh-pages/exercises/we1s-data.zip)
 - [Mallet Tutorial By L. Thomas](https://susannalles.github.io/DHPracticum_Spring23/exercises/mallet/)
 
 
