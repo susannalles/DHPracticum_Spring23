@@ -130,9 +130,9 @@ Other recommended readings:
 1. Readings:
 
 These reading are case studies that examine sentiment analysis in literary/historical corpora. 
-- Lerma Mayer, Adán Israel, Ximena Gutierrez-Vasques, Ernesto Priani Saiso, Hannu Salmi. Underlying Sentiments in 1867: A Study of News Flows on the Execution of Emperor Maximilian I of Mexico in Digitized Newspaper Corpora. *Digital Humanities Quarterly* 16.4, 2022.  http://digitalhumanities.org:8081/dhq/vol/16/4/000649/000649.html 
+- Lerma Mayer, Adán Israel, Ximena Gutierrez-Vasques, Ernesto Priani Saiso, Hannu Salmi. Underlying Sentiments in 1867: A Study of News Flows on the Execution of Emperor Maximilian I of Mexico in Digitized Newspaper Corpora. *Digital Humanities Quarterly* 16.4, 2022.  <http://digitalhumanities.org:8081/dhq/vol/16/4/000649/000649.html> 
 - Schmidt, Thomas, and Manuel Burghardt. An Evaluation of Lexicon-based Sentiment Analysis Techniques for the Plays of Gotthold Ephraim Lessing. *Proceedings of Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 139–149
-Santa Fe, New Mexico, USA, August 25, 2018. https://aclanthology.org/W18-4516.pdf 
+Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.pdf> 
 
 
 ## (10) March 30, 2023: Text Encoding | TEI (I)
