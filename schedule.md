@@ -110,7 +110,7 @@ Session offered by Prof. Lindsay Thomas
 
 Other recommended readings: 
 - Ted Underwood, “[Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/),” (2012)
-- David Mimno, “T[he Details: Training and Validating Big Models on Big Data](https://vimeo.com/53080123)” (video recording starting around 3:30) 
+- David Mimno, “[The Details: Training and Validating Big Models on Big Data](https://vimeo.com/53080123)” (video recording starting around 3:30) 
 - Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ ),” *Journal Of Digital Humanities* 2.1 (Winter 2012) 
 
 2. Hands on: 
@@ -120,9 +120,19 @@ Other recommended readings:
 
 ### Spring Break 
 
-## (9) March 23, 2023: Sentiment Analysis with Python
+## (9) March 23, 2023: Sentiment Analysis By Jerry Bonnell 
 
-Sentiment Analysis. By Jerry Bonnell 
+- Materials available through a [Google Collab notebook](https://colab.research.google.com/drive/1r8T4Yhff7x9YaPqwEkf5Fm_8zG7AwdJj?usp=sharing) 
+- Raw code in [GitHub repo](https://github.com/jerrybonnell/dh_practicum_mll774_eng613)
+
+>> Prerequisite: you need to associate the notebook with a Google account. Also save a copy of it to your Google Drive, and run that one instead so that you can keep any changes made (There is a note about this at the top of the notebook). One caveat: the first cell installs some packages, please allow ~5 minutes to complete.
+
+1. Readings:
+
+These reading are case studies that examine sentiment analysis in literary/historical corpora. 
+- Lerma Mayer, Adán Israel, Ximena Gutierrez-Vasques, Ernesto Priani Saiso, Hannu Salmi. Underlying Sentiments in 1867: A Study of News Flows on the Execution of Emperor Maximilian I of Mexico in Digitized Newspaper Corpora. *Digital Humanities Quarterly* 16.4, 2022.  http://digitalhumanities.org:8081/dhq/vol/16/4/000649/000649.html 
+- Schmidt, Thomas, and Manuel Burghardt. An Evaluation of Lexicon-based Sentiment Analysis Techniques for the Plays of Gotthold Ephraim Lessing. *Proceedings of Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 139–149
+Santa Fe, New Mexico, USA, August 25, 2018. https://aclanthology.org/W18-4516.pdf 
 
 
 ## (10) March 30, 2023: Text Encoding | TEI (I)
