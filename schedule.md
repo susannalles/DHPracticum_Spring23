@@ -135,9 +135,12 @@ These reading are case studies that examine sentiment analysis in literary/histo
 Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.pdf> 
 
 
-## (10) March 30, 2023: Text Encoding | TEI (I)
+## (10) March 30, 2023: Digital Humanities Research Institute
 
-[Digital Humanities Research Institute](https://dh.miami.edu/events/index.html)
+Our class will be interchanged with the [Digital Humanities Research Institute](https://dh.miami.edu/events/index.html) which will take place on Thursday, March 30th from 10:30 to 4:00pm and Friday, March 31st, from 10:00am to 4:00pm. 
+
+  
+## (11) April 6, 2023: Text Encoding | TEI (I) (Online)
 
 1. Read: 
   - Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
@@ -146,8 +149,9 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
 
 3. Hands-on 
   - TEI By Example 
-  
-## (11) April 6, 2023: Text Encoding | TEI (II) (Online)
+
+
+## (12) April 13, 2023: Text Encoding | TEI (II)
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
@@ -155,9 +159,9 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
 
 3. Hands-on  
   - XML transformations through XSLT.
+ 
 
-
-## (12) April 13, 2023: Databases
+## (13) April 20, 2023: Databases & Maps | Google Maps 
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
@@ -166,14 +170,14 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
   - Exercice on databases
 3. Eplore and pick yours. 
 
-## (13) April 20, 2023: Maps | Google Maps 
+BREAK 
 
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
   - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
-2. Hands-on  
+6. Hands-on  
 - Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
-3. Explore and pick ours: 
+7. Explore and pick ours: 
   - Radical Cartography <http://www.radicalcartography.net/>
 - Laboratory Day 
 
