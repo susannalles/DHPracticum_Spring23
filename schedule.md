@@ -136,6 +136,9 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
 
 
 ## (10) March 30, 2023: Text Encoding | TEI (I)
+
+[Digital Humanities Research Institute](https://dh.miami.edu/events/index.html)
+
 1. Read: 
   - Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
   - Pierazzo, Elena. “[Textual Scholarship and Text Encoding.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch21)” In *A New Companion to Digital Humanities*, pp. 307-321.
@@ -144,7 +147,7 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
 3. Hands-on 
   - TEI By Example 
   
-## (11) April 6, 2023: Text Encoding | TEI (II)
+## (11) April 6, 2023: Text Encoding | TEI (II) (Online)
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
