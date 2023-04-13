@@ -140,16 +140,19 @@ Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.p
 Our class will be interchanged with the [Digital Humanities Research Institute](https://dh.miami.edu/events/index.html) which will take place on Thursday, March 30th from 10:30 to 4:00pm and Friday, March 31st, from 10:00am to 4:00pm. 
 
   
-## (11) April 6, 2023: Text Encoding | TEI (I) (Online)
+## (11) April 6, 2023: Text Encoding | TEI (I) (Online; Asynchronous)
 
 1. Read: 
   - Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
   - Pierazzo, Elena. “[Textual Scholarship and Text Encoding.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch21)” In *A New Companion to Digital Humanities*, pp. 307-321.
   - Flanders, Julia, et al. “[Text Encoding](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” *Doing Digital Humanities: Concepts, Approaches, Cases*, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 104–22. 
 
-3. Hands-on 
-  - TEI By Example 
-
+3. Hands-on: Deadline: Friday April 6, at noon. 
+  3.1. [Module 0: Introduction to the Text Encoding and the TEI](https://teibyexample.org/tutorials/TBED00v00.htm). Check example Module 0, do Test 0 and send screenshot of your result.  
+  3.2. [Module 1: Common Structure, Elements, and Attributes](https://teibyexample.org/tutorials/TBED01v00.htm). Check the example Module 1, do the Test 1, do Exercise Module 1 using the Workspace, and send screenshot of your result. 
+  3.3. [Module 2: The TEI Header](). Check the example Module 2, do the Test 2, Exercise Module 2 using the Workspace, and send me the screenshot of your result. 
+  3.4. [Module 3: Prose](). Check the example Module 3, do the Test 3, do the exercise Module 3, and send me the screenshot of your result. 
+  3.5. Finally, take the content of exercise 3 and try to create a document called myTEIfile.xml. The file should have the content of this exercise 3. You can use the software I mentioned: Oxygen (v. 24), but Visual studio code also works. 
 
 ## (12) April 13, 2023: Text Encoding | TEI (II)
 
