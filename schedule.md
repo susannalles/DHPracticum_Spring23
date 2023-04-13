@@ -185,14 +185,20 @@ BREAK
   - Radical Cartography <http://www.radicalcartography.net/>
 - Laboratory Day 
 
-*Annotated bibliography created with Zotero due*  
+*Annotated bibliography created with Zotero due*:  
+
+ - Use Zotero and create a public Library 
+ - Include at least 10 relevant references for your digital research project 
+ - Create a Bibliography from the references (MLA or Chicago style)
+ - Include only the references on your Portfolio (DH Project description or DH Project itself)
+ - The final annotated bibliography should be written in markdown and transformed through Pandoc into a PDF. The annotation should be around 250 words. 
 
 
 ## (14) April 27, 2023: Optional Lab 
 
 (Class moved to Friday, April 28th)
 
-*Final presentations*
+*Final presentations of your Portfolio and DH Project April 28th*
 
 
 ## Final deadline for digital project: May 4th, 2023 
