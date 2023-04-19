@@ -175,7 +175,6 @@ BREAK
 
 1. Read: 
   - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In *A New Companion to Digital Humanities*, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
-  - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 6. Hands-on  
 - Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
 7. Explore and pick ours: 
