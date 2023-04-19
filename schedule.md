@@ -124,15 +124,13 @@ Other recommended readings:
 
 - Materials available through a [Google Collab notebook](https://colab.research.google.com/drive/1r8T4Yhff7x9YaPqwEkf5Fm_8zG7AwdJj?usp=sharing) 
 - Raw code in [GitHub repo](https://github.com/jerrybonnell/dh_practicum_mll774_eng613)
-
->> Prerequisite: you need to associate the notebook with a Google account. Also save a copy of it to your Google Drive, and run that one instead so that you can keep any changes made (There is a note about this at the top of the notebook). One caveat: the first cell installs some packages, please allow ~5 minutes to complete.
+- Prerequisite: you need to associate the notebook with a Google account. Also save a copy of it to your Google Drive, and run that one instead so that you can keep any changes made (There is a note about this at the top of the notebook). One caveat: the first cell installs some packages, please allow ~5 minutes to complete.
 
 1. Readings:
 
 These reading are case studies that examine sentiment analysis in literary/historical corpora. 
-- Lerma Mayer, Adán Israel, Ximena Gutierrez-Vasques, Ernesto Priani Saiso, Hannu Salmi. Underlying Sentiments in 1867: A Study of News Flows on the Execution of Emperor Maximilian I of Mexico in Digitized Newspaper Corpora. *Digital Humanities Quarterly* 16.4, 2022.  <http://digitalhumanities.org:8081/dhq/vol/16/4/000649/000649.html> 
-- Schmidt, Thomas, and Manuel Burghardt. An Evaluation of Lexicon-based Sentiment Analysis Techniques for the Plays of Gotthold Ephraim Lessing. *Proceedings of Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 139–149
-Santa Fe, New Mexico, USA, August 25, 2018. <https://aclanthology.org/W18-4516.pdf> 
+- Lerma Mayer, Adán Israel, Ximena Gutierrez-Vasques, Ernesto Priani Saiso, Hannu Salmi. [Underlying Sentiments in 1867: A Study of News Flows on the Execution of Emperor Maximilian I of Mexico in Digitized Newspaper Corpora](http://digitalhumanities.org:8081/dhq/vol/16/4/000649/000649.html). *Digital Humanities Quarterly* 16.4, 2022. 
+- Schmidt, Thomas, and Manuel Burghardt. [An Evaluation of Lexicon-based Sentiment Analysis Techniques for the Plays of Gotthold Ephraim Lessing.](https://aclanthology.org/W18-4516.pdf) *Proceedings of Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 139–149, Santa Fe, New Mexico, USA, August 25, 2018. 
 
 
 ## (10) March 30, 2023: Digital Humanities Research Institute
@@ -159,7 +157,7 @@ Our class will be interchanged with the [Digital Humanities Research Institute](
 
 1. Read: 
   - Flanders, Julia, et al. “[XSLT: Transforming Our XML Data](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628).” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Joacim Hansson and Jonas Svensson, Routledge, 2020, pp. 255–72. 
-  - Platforms 
+  - Platforms for publication.
 
 3. Hands-on  
   - XML transformations through XSLT.
@@ -169,24 +167,21 @@ Our class will be interchanged with the [Digital Humanities Research Institute](
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
-  - Quamen, Harvey, and Jon Bath. “Databaes.” Doing Digital Humanities: Concepts, Approaches, Cases, edited by Constance Crompton et al., Routledge, 2020, pp. 145–62. miami-primo.com, http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-97628.
+  - Quamen, Harvey, and Jon Bath. “Databaes.” *Doing Digital Humanities: Concepts, Approaches, Cases*, edited by Constance Crompton et al., Routledge, 2020, pp. 145–62 (Bb).
 2. Hands-on: 
   - Exercice on databases
-3. Eplore and pick yours. 
 
 BREAK 
 
 1. Read: 
-  - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
+  - Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In *A New Companion to Digital Humanities*, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.
   - Drucker, Johanna. "Chapter 7 Data Mining and Analysis." *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021.
 6. Hands-on  
 - Clifford, Jim, et al. “[Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/googlemaps-googleearth).” *Programming Historian*, no. 2, Dec. 2013.
 7. Explore and pick ours: 
   - Radical Cartography <http://www.radicalcartography.net/>
-- Laboratory Day 
 
-*Annotated bibliography created with Zotero due*:  
-
+*Annotated bibliography created with Zotero due*  
  - Use Zotero and create a public Library 
  - Include at least 10 relevant references for your digital research project 
  - Create a Bibliography from the references (MLA or Chicago style)
