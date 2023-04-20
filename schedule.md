@@ -167,7 +167,7 @@ Our class will be interchanged with the [Digital Humanities Research Institute](
 
 1. Read: 
   - Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in *A Companion to Digital Humanities*, 2004. 
-  - Quamen, Harvey, and Jon Bath. “Databaes.” *Doing Digital Humanities: Concepts, Approaches, Cases*, edited by Constance Crompton et al., Routledge, 2016, pp. 145–62 (Bb).
+  - Quamen, Harvey, and Jon Bath. “Databases.” *Doing Digital Humanities: Concepts, Approaches, Cases*, edited by Constance Crompton et al., Routledge, 2016, pp. 145–62 (Bb).
 2. Hands-on: 
   - Exercice on databases
 
