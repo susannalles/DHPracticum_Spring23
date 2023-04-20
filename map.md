@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: The Map
 ---
 
 The Google map: 
